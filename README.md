@@ -1,4 +1,4 @@
-#Infiltrating Macrophage in Metastatic Urothelial Cancer determines immunophenotype and predicts anti-PD-L1 response: Results from Phase II Clinical Trial
+# Infiltrating Macrophage in Metastatic Urothelial Cancer determines immunophenotype and predicts anti-PD-L1 response: Results from Phase II Clinical Trial
 
 Comprehensive analysis highlighted and verified the robust predictive value of Macrophage M1 and its essential role in immunophenotype determination among patients with mUC.
 
